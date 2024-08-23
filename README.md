@@ -39,3 +39,7 @@ The following visualizations are
 **Out vs. Not Out:** Pie chart for showing the proportion of out vs. not out centuries.
 
 **Match Results Analysis:** Pie chart for comparing centuries scored in winning versus losing matches.
+
+**Acknowledgments**
+
+The dataset used in this analysis is sourced from Kaggle. Thanks to the Kaggle community for providing valuable resources and insights.
